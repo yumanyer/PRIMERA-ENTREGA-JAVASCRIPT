@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.java{
+    background-image: linear-gradient(to right top, #4158d0, #6657d0, #8255ce, #9a54cb, #af52c7, #cf50ba, #e752ab, #fa599c, #ff7183, #ff8f71, #ffae69, #ffcc70);
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
