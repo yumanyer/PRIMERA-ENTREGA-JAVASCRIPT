@@ -27,7 +27,7 @@ if ((usuario === "manuel" || usuario === "tomas") && intentos <= 5) {
     if (intentos > 5) {
     alert("Te dije que solo los admins pueden entrar.");
     console.error("El usuario no está reconocido.");
-    break;
+    break; 
     }
 }
 } while (identificar);
